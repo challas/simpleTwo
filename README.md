@@ -1,3 +1,5 @@
+## customizing this to my needs
+
 # simpleTwo
 A simple theme with two columns for [picoCMS](https://github.com/picocms/Pico). - now with floating header!
 
